@@ -1,7 +1,7 @@
 # Dominion-Simulator
 (Open) Dominion Simulator to be updated for beta round 14<br>
 <ul>
-  <li>>Dwarven Cleric -40p</li>
+<li>Dwarven Cleric -40p</li>
 <li>Gnome gets Racial spell from Dwarf. Miner's Sight (+20% Ore production, replaces Mining Strength.)</li>
 <li>Gnome Juggernaut op to 7.5 (max vs 90% target)</li>
 <li>Nox Nightshade based on swamp instead of built swamp. +100p </li>
