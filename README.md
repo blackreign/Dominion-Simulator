@@ -15,7 +15,8 @@
 <b>Bug Fixes</b><br>
 <ul><li>fixed a population bug with WG</li>
   <li>added useless race spell to accommodate mana expenses for other races</li>
-  <li>fixed the starting time, hopefully</li>
+  <li>fixed the starting time</li>
+  <li>fixed clear sim button</li>
 </ul>
 See https://opendominion.net/<br>
 Happy simming!
