@@ -1,6 +1,6 @@
 # Dominion-Simulator
-(Open) Dominion Simulator to be updated for beta round 14<br>
-Changes<br>
+(Open) Dominion Simulator to be updated for beta round 14<br><br>
+<b>Changes</b><br>
 <ul>
 <li>Dwarven Cleric -40p</li>
 <li>Gnome gets Racial spell from Dwarf. Miner's Sight (+20% Ore production, replaces Mining Strength.)</li>
@@ -12,7 +12,7 @@ Changes<br>
 <li>Lycanthrope Werewolf -25p, 4/4</li>
 <li>Explore cost increase of 10% removed for both platinum and draftees. 300 acres now have 5 draftees explore cost again.</li>
 </ul><br>
-Bug Fixes<br>
+<b>Bug Fixes</b><br>
 <ul><li>fixed a population bug with WG</li>
   <li>added useless race spell to accommodate mana expenses for other races</li></ul>
 See https://opendominion.net/<br>
