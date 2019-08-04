@@ -17,6 +17,7 @@
   <li>added useless race spell to accommodate mana expenses for other races</li>
   <li>fixed the starting time</li>
   <li>fixed clear sim button</li>
+  <li>fixed renaming The Nox to Nox on overview page</li>
 </ul>
 See https://opendominion.net/<br>
 Happy simming!
