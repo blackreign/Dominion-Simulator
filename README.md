@@ -1,6 +1,6 @@
 # Dominion-Simulator
 (Open) Dominion Simulator to be updated for beta round 14<br><br>
-<b>Game Changes</b><br>
+<b>Game Changes</b>
 <ul>
 <li>Dwarven Cleric -40p</li>
 <li>Gnome gets Racial spell from Dwarf. Miner's Sight (+20% Ore production, replaces Mining Strength.)</li>
