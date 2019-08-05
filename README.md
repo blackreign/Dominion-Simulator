@@ -11,7 +11,7 @@
 <li>Spirit/Undead +2.5% pop bonus to 15%. Conversion changed to be similar to Dominion Classic.</li>
 <li>Lycanthrope Werewolf -25p, 4/4</li>
 <li>Explore cost increase of 10% removed for both platinum and draftees. 300 acres now have 5 draftees explore cost again.</li>
-</ul><br>
+</ul>
 <b>Simulator Changes</b>
 <ul>
  <li>Added names to a lot of formulas involving constants for readability purposes.</li>
