@@ -16,7 +16,7 @@
 <ul>
  <li>Added names to a lot of formulas involving constants for readability purposes.</li>
 </ul>
-<b>Bug Fixes</b><br>
+<b>Simulator Bug Fixes</b><br>
 <ul><li>fixed a population bug with WG</li>
   <li>added useless race spell to accommodate mana expenses for other races</li>
   <li>fixed the starting time</li>
