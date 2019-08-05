@@ -1,6 +1,6 @@
 # Dominion-Simulator
 (Open) Dominion Simulator to be updated for beta round 14<br><br>
-<b>Game Changes</b>
+<b>Game Changes</b><br>
 <ul>
 <li>Dwarven Cleric -40p</li>
 <li>Gnome gets Racial spell from Dwarf. Miner's Sight (+20% Ore production, replaces Mining Strength.)</li>
@@ -12,7 +12,7 @@
 <li>Lycanthrope Werewolf -25p, 4/4</li>
 <li>Explore cost increase of 10% removed for both platinum and draftees. 300 acres now have 5 draftees explore cost again.</li>
 </ul>
-<b>Simulator Changes</b>
+<b>Simulator Changes</b><br>
 <ul>
  <li>Added names to a lot of formulas involving constants for readability purposes.</li>
 </ul>
