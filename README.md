@@ -24,6 +24,7 @@
   <li>fixed renaming The Nox to Nox on overview page</li>
   <li>fixed a bug with Nox dp on overview page</li>
   <li>fixed a bug with construction cost involving factories and taking land bonus</li>
+ <li>fixed bug with log files where destroying buildings used wrong columns</li>
 </ul>
 See https://opendominion.net/<br>
 Happy simming!
