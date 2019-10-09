@@ -1,6 +1,24 @@
 # Dominion-Simulator
 (Open) Dominion Simulator to be updated for beta round 14<br><br>
-<b>Game Changes</b><br>
+<h1>Change Log</h1><br>
+<b>Round 15 (preliminary)</b><br>
+<ul>
+<li>Prestige gain: change divisor from 12 to 10.</li>
+<li>Prestige loss: reintroduce prestige loss for hits under 60% (old wiki). Ensure prestige loss for hits 60%—75% if they are subsequent hits that qualify for prestige loss.</li>
+<li>Spy losses: cut in half for info ops, and implement spy loss equivalents for Halfling/Lizardfolk.</li>
+<li>Land generation: switch to 85:65.</li>
+<li>Defensive casualties: new base 3.375/0.75*0.85 = 3.825%.</li>
+<li>Defensive casualties reduction: reduced by land ratio. 75% hit would generate 3.825% * 75% = 2.86875% casualties. Nerfs SPUD.</li>
+<li>Nox: Lich +1 OP to 6 OP and +100p to 1,050p.</li>
+<li>WE: Mystic +50p to 1,125p; LBM +25p to 350p, 10r; and Druid -50p to 1,050p.</li>
+<li>SPUD: change pop bonus back to +12.50% and revert elite conversion range.</li>
+<li>Gnome: Juggernaut to a fixed 7 OP.</li>
+<li>Explore formula: changed as per Yami's proposal 2 in this sheet: https://docs.google.com/spreadsheets/d/1...7FC-w/edit</li>
+<li>Orc: no change.</li>
+<li>Shrines: change to 5x.</li>
+ <li>Global TC: to be implemented.</li>
+</ul>
+<b>Round 14</b><br>
 <ul>
 <li>Dwarven Cleric -40p</li>
 <li>Gnome gets Racial spell from Dwarf. Miner's Sight (+20% Ore production, replaces Mining Strength.)</li>
@@ -16,7 +34,11 @@
 <ul>
  <li>Added names to a lot of formulas involving constants for readability purposes.</li>
 </ul>
-<b>Simulator Bug Fixes</b><br>
+<h1>Simulator Bug Fixes</h1><br>
+<b>Round 15</b><br>
+<ul><li>Redesigned Military page so it uses correct base elite1 and elite2 unit dp and op for e.g. forest based units<li>
+ </ul>
+ <b>Round 14</b><br>
 <ul><li>fixed a population bug with WG</li>
   <li>added useless race spell to accommodate mana expenses for other races</li>
   <li>fixed the starting time</li>
