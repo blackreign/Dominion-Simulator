@@ -15,7 +15,7 @@ Happy simming!
 <li>WE: Mystic +50p to 1,125p; LBM +25p to 350p, 10r; and Druid -50p to 1,050p.</li>
 <li>SPUD: change pop bonus back to +12.50% and revert elite conversion range.</li>
 <li>Gnome: Juggernaut to a fixed 7 OP.</li>
-<li>Explore formula: changed as per Yami's proposal 2 in this sheet: https://docs.google.com/spreadsheets/d/1...7FC-w/edit</li>
+<li>Explore formula: changed as per Yami's proposal 2 in this sheet: https://docs.google.com/spreadsheets/d/1VK-but66RWfKVStXznzB6EKE6PuyPh13sKyU_x7FC-w/edit#gid=417348194</li>
 <li>Orc: no change.</li>
 <li>Shrines: change to 5x.</li>
 <li>Global TC: to be implemented.</li>
