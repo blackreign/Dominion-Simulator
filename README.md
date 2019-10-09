@@ -1,5 +1,7 @@
 # Dominion-Simulator
-(Open) Dominion Simulator to be updated for beta round 14<br><br>
+(Open) Dominion Simulator to be updated for beta round 15 with preliminary changes<br><br>
+See https://opendominion.net/<br>
+Happy simming!
 <h1>Change Log</h1><br>
 <b>Round 15 (preliminary)</b><br>
 <ul>
@@ -30,15 +32,16 @@
 <li>Lycanthrope Werewolf -25p, 4/4</li>
 <li>Explore cost increase of 10% removed for both platinum and draftees. 300 acres now have 5 draftees explore cost again.</li>
 </ul>
-<b>Simulator Changes</b><br>
+<b>Simulator Changes</b>
 <ul>
  <li>Added names to a lot of formulas involving constants for readability purposes.</li>
 </ul>
 <h1>Simulator Bug Fixes</h1><br>
 <b>Round 15</b><br>
-<ul><li>Redesigned Military page so it uses correct base elite1 and elite2 unit dp and op for e.g. forest based units<li>
- </ul>
- <b>Round 14</b><br>
+<ul>
+ <li>Redesigned Military page so it uses correct base elite1 and elite2 unit dp and op for e.g. forest based units<li>
+</ul>
+<b>Round 14</b>
 <ul><li>fixed a population bug with WG</li>
   <li>added useless race spell to accommodate mana expenses for other races</li>
   <li>fixed the starting time</li>
@@ -49,5 +52,4 @@
  <li>fixed bug with log files where destroying buildings used wrong columns</li>
  <li>fixed an issue with servertime being wrong in logs</li>
 </ul>
-See https://opendominion.net/<br>
-Happy simming!
+
