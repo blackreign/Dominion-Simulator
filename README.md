@@ -2,7 +2,7 @@
 (Open) Dominion Simulator to be updated for beta round 15 with preliminary changes<br><br>
 See https://opendominion.net/<br>
 Happy simming!
-<h1>Change Log</h1><br>
+<h1>Game Change Log</h1><br>
 <b>Round 15 (preliminary)</b><br>
 <ul>
 <li>Prestige gain: change divisor from 12 to 10.</li>
@@ -18,7 +18,7 @@ Happy simming!
 <li>Explore formula: changed as per Yami's proposal 2 in this sheet: https://docs.google.com/spreadsheets/d/1...7FC-w/edit</li>
 <li>Orc: no change.</li>
 <li>Shrines: change to 5x.</li>
- <li>Global TC: to be implemented.</li>
+<li>Global TC: to be implemented.</li>
 </ul>
 <b>Round 14</b><br>
 <ul>
@@ -36,10 +36,10 @@ Happy simming!
 <ul>
  <li>Added names to a lot of formulas involving constants for readability purposes.</li>
 </ul>
-<h1>Simulator Bug Fixes</h1><br>
-<b>Round 15</b><br>
+<h1>Simulator Bug fixes</h1><br>
+<b>Round 15</b>
 <ul>
- <li>Redesigned Military page so it uses correct base elite1 and elite2 unit dp and op for e.g. forest based units<li>
+ <li>Redesigned Military page so it uses correct base elite1 and elite2 unit dp and op for e.g. forest based units</li>
 </ul>
 <b>Round 14</b>
 <ul><li>fixed a population bug with WG</li>
