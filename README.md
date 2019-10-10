@@ -40,6 +40,7 @@ Happy simming!
 <b>Round 15</b>
 <ul>
  <li>Redesigned Military page so it uses correct base elite1 and elite2 unit dp and op for e.g. forest based units</li>
+ <li>Fixed issue with lumber cost with factories taking DB</li>
 </ul>
 <b>Round 14</b>
 <ul><li>fixed a population bug with WG</li>
