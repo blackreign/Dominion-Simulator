@@ -11,7 +11,6 @@ Happy simming!
 <li>Land generation: switch to 85:65.</li>
 <li>Defensive casualties: new base 3.375/0.75*0.85 = 3.825%.</li>
 <li>Defensive casualties reduction: reduced by land ratio. 75% hit would generate 3.825% * 75% = 2.86875% casualties. Nerfs SPUD.</li>
-<li>Nox: Lich +1 OP to 6 OP and +100p to 1,050p.</li>
 <li>WE: Mystic +50p to 1,125p; LBM +25p to 350p, 10r; and Druid -50p to 1,050p.</li>
 <li>SPUD: change pop bonus back to +12.50% and revert elite conversion range.</li>
 <li>Gnome: Juggernaut to a fixed 7 OP.</li>
