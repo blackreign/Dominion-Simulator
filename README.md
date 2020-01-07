@@ -3,7 +3,14 @@
 See https://opendominion.net/<br>
 Happy simming!
 <h1>Game Change Log</h1><br>
-<b>Round 15 (preliminary)</b><br>
+<b>Round 16</b><br>
+<ul>
+ <li>Gnome: spell reverted from Miner's Sight to Mechanical Genius</li>
+ <li>Merfolk: +5% OP racial bonus</li>
+ <li>Sylvan: Centaur ore price reduced from 90 to 70 ore; Centaur casualty reduction increased from -15% to -25%</li>
+ <li>Nox: +15% research racial bonus from all sources (invading and school production)</li>
+</ul>
+<b>Round 15</b><br>
 <ul>
 <li>Prestige gain: change divisor from 12 to 10.</li>
 <li>Prestige loss: reintroduce prestige loss for hits under 60% (old wiki). Ensure prestige loss for hits 60%—75% if they are subsequent hits that qualify for prestige loss.</li>
@@ -36,6 +43,9 @@ Happy simming!
  <li>Added names to a lot of formulas involving constants for readability purposes.</li>
 </ul>
 <h1>Simulator Bug fixes</h1><br>
+<b>Round 16</b>
+<ul><li>Changed the default GMT+1 to UTC</li>
+</ul><br>
 <b>Round 15</b>
 <ul>
  <li>Redesigned Military page so it uses correct base elite1 and elite2 unit dp and op for e.g. forest based units</li>
